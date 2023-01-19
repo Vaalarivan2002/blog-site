@@ -99,7 +99,7 @@ nav button{
     justify-content: center;
 }
 
-.site-form{
+.site-form{ 
     margin-top: 60px;
     border: 1px solid #00dba0;
     padding: 20px
@@ -107,7 +107,7 @@ nav button{
 
 .site-form input, .site-form textarea{
     display: block;
-    margin: 20px 0 0 0;
+    margin: 5px 0 0 0;
     padding: 10px
 }
 
@@ -154,4 +154,12 @@ label[for="id_slug"]{
     display: block;
     margin-left: auto;
     margin-right: auto 
+}
+
+span{
+    display: block;
+}
+
+span.helptext{
+    margin-bottom: 50px;
 }
